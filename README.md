@@ -13,3 +13,6 @@ Using quantum circuits and a custom beam splitter unitary gate, this code models
 - Implements a **beam splitter as a unitary quantum gate** acting on two photon modes, bridging quantum optics concepts and quantum computing.
 - Simulates different photon sources with physically motivated models within a unified quantum circuit framework.
 
+---
+
+Feel free to explore, modify, and extend this simulation to deepen your understanding of quantum optics and quantum information!

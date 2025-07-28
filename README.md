@@ -8,7 +8,7 @@ Using quantum circuits and a custom beam splitter unitary gate, this code models
 - **Thermal Photon Source** (exhibiting photon bunching) (super-Poissonian statistics)
 - **Coherent Photon Source** (typical laser light statistics) (Poissonian statistics)
 
-## Speciality of This Code
+## Key features of the code
 
 - Implements a **beam splitter as a unitary quantum gate** acting on two photon modes, bridging quantum optics concepts and quantum computing.
 - Simulates different photon sources with physically motivated models within a unified quantum circuit framework.
